@@ -133,7 +133,7 @@ Final Year Project (FYP) Registration:
 Adding or Dropping Courses:
 - Allowed within first 2 weeks of regular semester
 - Requires advisor recommendation and HoD/Chairman approval
-- First semester students cannot drop courses
+- First semester students cannot drop coursess
 - Summer semester: No dropping allowed
 
 Course Withdrawal:
