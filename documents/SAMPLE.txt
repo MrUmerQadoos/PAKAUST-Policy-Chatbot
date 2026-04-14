@@ -1,0 +1,456 @@
+PAF-IAST ACADEMIC RULES AND REGULATIONS FOR BACHELOR PROGRAMS
+Version 1.1 - Approved by 6th Academic Council Meeting on 30th November 2021
+
+=== SECTION 1: INTRODUCTION ===
+
+Academic Year:
+The academic year comprises mainly two regular semesters: Fall and Spring.
+- Fall Semester: 18 weeks (September/October start)
+- Spring Semester: 18 weeks (February/March start)
+- Summer Semester: 9 weeks (optional)
+
+Credit Hour System:
+- One credit hour = one hour of theory teaching per week throughout the semester
+- One classroom hour = 60 minutes including 10-minute break
+- One credit hour of lab work = 3 contact hours of laboratory work per week
+
+Medium of Instruction:
+- All courses except language courses and Islamic Studies are taught in English
+- Islamic Studies can be taught in student's choice of language
+
+Class Scheduling:
+- All classes held at scheduled hours as per timetable
+- Rescheduling requires approval from Head of Department/Chairman
+- Classes can be scheduled for 90 minutes (1.5 periods) with approval
+- Weekend/holiday classes possible if regular weeks insufficient
+
+Course Load:
+- Regular semester load determined by Scheme of Studies
+- Students can register 12-18 credit hours normally
+- Up to 21 credit hours allowed for CGPA ≥ 3.50
+- Must complete prerequisites before registering for a course
+
+Attendance Requirements:
+- Mandatory attendance: 75%
+- Students aim for 100% attendance in lectures, labs, tutorials, seminars
+- Below 75% attendance = ineligible for final examination = F grade
+- Below 65% attendance = automatic F grade
+
+Bachelor's Degree Requirements:
+- Minimum duration: 4 years (8 regular semesters)
+- Maximum duration: 6 academic years
+- Minimum credit hours: 130
+- Minimum CGPA required: 2.00
+- Must complete 500 hours of internship
+- Must clear all courses in Scheme of Studies
+- Good academic and disciplinary standing required
+
+Clearance Requirements:
+- Students withdrawing or completing must obtain clearance from all departments
+- Security deposit forfeited if clearance not completed
+
+=== SECTION 2: GRADING AND GPA CALCULATIONS ===
+
+Grading System:
+PAF-IAST follows Relative Grading System
+
+Grade Scale:
+- A: 4.00 points (85-100%)
+- A-: 3.67 points (80-84%)
+- B+: 3.33 points (75-79%)
+- B: 3.00 points (70-74%)
+- B-: 2.67 points (65-69%)
+- C+: 2.33 points (60-64%)
+- C: 2.00 points (55-59%)
+- D: 1.00 points (50-54%)
+- F: 0.00 points (Below 50%)
+
+Special Grades (no grade points):
+- W: Withdrawal from course
+- Q: Completion of non-credit course
+- I: Incomplete (medical/family emergency)
+- IP: In Progress (for FYP-I)
+- T: Transfer credit
+
+GPA Calculation:
+- SGPA (Semester GPA) = Sum of (Grade Points × Credit Hours) / Total Credits in Semester
+- CGPA (Cumulative GPA) = Weighted average of all semesters
+- Course repetition: Both grades visible on transcript, best grade used in CGPA calculation
+
+=== SECTION 3: TRANSFER POLICY ===
+
+Credit Transfer from Another University:
+- Student must have studied at Fachhochschule model institute
+- Seat must be available at PAF-IAST
+- Maximum 40% of total credit hours can be transferred
+- Minimum grade B (3.00 GPA) required for transfer
+- Only credits transfer, not CGPA
+- NOC required from previous institute (no disciplinary action, no dues)
+- Maximum degree duration counted from first admission date
+
+Visiting Student Credits:
+- Students can take courses at other institutions with prior approval
+- Minimum grade B required
+- Maximum 40% credit transfer limit applies
+- Detailed course outlines required for evaluation
+- Dean approval required
+
+=== SECTION 4: REGISTRATION ===
+
+First Semester Registration:
+- Must register for all courses in Scheme of Studies
+- Cannot drop courses in first semester
+
+Registration Procedure:
+1. Clear all previous fees and dues
+2. Register courses online
+3. Pay semester fees by due date
+
+Registration Timeline:
+- Provisional registration: Starts 2 weeks before semester
+- Final registration: Until 3rd day of semester
+- Add/Drop period: First 2 weeks of semester
+- Fee payment: By due date on voucher
+
+Course Load Rules:
+- Regular students: All courses per Scheme of Studies
+- Can add repeat courses if total ≤ 21 credit hours
+- Academic deficiency students: Consult with advisor
+- Can improve courses with C or below grade (max 12 credit hours)
+
+Theory and Lab Registration:
+- Must register for both theory and lab components together
+- Cannot withdraw from only one component
+- Can register if passed theory part of prerequisite
+- Grade improvement requires re-registering both components
+
+Final Year Project (FYP) Registration:
+- Offered in second-last regular semester
+- Spans two semesters (FYP-I and FYP-II)
+- Requirements for FYP-I: CGPA ≥ 2.00 and 90 credit hours completed
+- FYP-II requires successful completion of FYP-I
+
+Adding or Dropping Courses:
+- Allowed within first 2 weeks of regular semester
+- Requires advisor recommendation and HoD/Chairman approval
+- First semester students cannot drop courses
+- Summer semester: No dropping allowed
+
+Course Withdrawal:
+- Withdrawal allowed from week 2 to end of week 10
+- Results in W grade (appears on transcript)
+- May delay graduation
+- Fee non-refundable
+- First-year students cannot withdraw in first semester
+- Financial aid recipients need Dean approval for withdrawal
+
+Course Repeat and Replacement:
+- Can repeat courses with C or below for improvement
+- F or W grade in core course: Must repeat same course
+- Core courses cannot be replaced
+- Discontinued courses can be replaced with similar course (HoD approval)
+- Best grade used in CGPA calculation
+- Both attempts visible on transcript
+- Can repeat after graduation within 6-year limit
+
+Semester Freeze:
+- Means unregistering all courses after add/drop period
+- Tuition fee not refunded
+- Allowed for attendance below 75% on medical/unavoidable grounds
+- Requires Rector approval
+
+Admission Closure:
+- Results in termination from program
+- Automatic closure after maximum duration (6 years)
+- Can be closed by Disciplinary Committee
+- Student can request closure for personal reasons
+- New admission closed if eligibility criteria not met
+
+=== SECTION 5: ACADEMIC ASSESSMENT ===
+
+Assessment Components:
+
+Theory Courses:
+- Final Exam: 40-50%
+- Mid-term Exams (max 2): 20-30%
+- Sessional (quizzes, assignments, projects): 20-30%
+- Pre-final total: 50-60%
+
+Lab Courses:
+- Final Exam: 40-50%
+- Mid-term Exams (max 2): 20-30%
+- Sessional (minimum 12 lab tasks): 20-30%
+- Pre-final total: 50-60%
+
+Grading:
+- Relative grading system used
+- Letter grade awarded based on overall performance
+- All assessment results shared except final exam
+- Final exam viewable through rechecking process
+
+Incomplete (I) Grade Policy:
+- Awarded for missing final exam due to medical reasons or death of first-degree relative
+- Other emergencies require Board of Faculty approval
+- Makeup exam within 6 weeks of next semester
+- Failure to take makeup = F grade
+- Pre-final marks cannot be altered
+- I grade replaced with earned grade after makeup
+
+Academic Warning:
+- Issued when SGPA falls below 2.00 in any semester
+- Issued when CGPA falls below 2.00
+- Issued when F grade earned in any course
+- Warning count resets to zero if CGPA reaches 2.00
+
+Academic Probation:
+- SGPA below 2.00 for two consecutive regular semesters
+- CGPA falls below 2.00 at end of any regular semester
+- Can be placed on probation without prior warning
+
+Academic Withdrawal:
+- CGPA below 1.00 in first semester
+- SGPA below 2.00 for first two consecutive regular semesters
+- CGPA below 2.00 for three consecutive regular semesters after first semester
+
+Result Declaration:
+- Controller of Examination publishes results
+- Grades awarded by instructor, discussed in department meeting
+- HoD can suggest changes but cannot alter grades
+- Final decision with instructor
+- Dean approves grades, deficiency cases, probation, withdrawal
+
+Retotaling Process:
+- Application within 7 days of result announcement
+- Retotaling fee required
+- Committee: Controller of Exam (Convener), HoD, Subject Specialist
+- Committee recounts marks, identifies unmarked portions
+- Cannot discuss outcome with student
+- Recommendations to Dean for approval
+- Fee refunded if marks change
+
+=== SECTION 6: SUMMER SEMESTER RULES ===
+
+- 9-week optional semester
+- Contact hours doubled per week
+- Cannot register for new courses except:
+  * Elective by distinguished scholar available only in summer
+  * Need 1-2 electives to graduate
+- Can repeat maximum 2 courses (with labs)
+- Withdrawal allowed before end of week 5
+- Cannot drop courses
+- No fee refund or carry forward
+- No financial assistance/scholarships
+- Minimum 5 students required for course to run
+- Previous semester grading scheme applied
+
+=== SECTION 7: AWARDS AND HONORS ===
+
+Gold Medal:
+- Awarded to first position holder in each degree program
+Eligibility:
+- Passed all prescribed courses
+- No failures, repeats, or withdrawals
+- SGPA ≥ 3.00 in all semesters
+- Position determined by overall GPA
+- Ties broken by highest marks
+- No disciplinary disqualification
+
+Best Project Award:
+- Grade A required in Final Year Project
+
+Rector's List of Honors:
+- SGPA = 4.00
+- Regular course load completed
+- Recognition certificate issued
+- Listed on Institute website
+- Published after each semester
+
+Dean's List of Honors:
+- SGPA 3.50 to 4.00
+- Regular course load completed
+- Recognition certificate issued
+- Listed on Institute website
+- Published after each semester
+
+=== SECTION 8: ACADEMIC INTEGRITY ===
+
+Cheating Includes:
+- Giving or seeking assistance in examinations
+- Unauthorized communication of answers/information
+- Copying during exams, quizzes, labs
+- Identity fraud for academic purposes
+- Using unauthorized devices during exams
+- Providing false information to teachers
+
+Plagiarism Includes:
+- Presenting others' work as your own
+- Not using proper citations
+- Submitting work completed by others
+- Buying/selling academic materials
+
+Other Academic Violations:
+- Falsifying attendance records, grades, documents
+- Fabricating data
+- Bribery or paid services for assignments/tests
+- Sabotaging others' work
+- Removing library pages, disrupting experiments
+
+Penalties:
+Teacher can award zero in specific assessment (with HoD intimation)
+
+Disciplinary Committee can award:
+- F grade in a course
+- F grade in all courses
+- Fine
+- Expulsion from university
+- Disqualification from honors/medals/scholarships
+- Combination of above
+
+Disciplinary Committee Composition:
+- Dean (Convenor) - nominated by Rector
+- Controller of Examination (Secretary)
+- Three Senior Faculty Members (nominated by Rector)
+
+=== SECTION 9: ACADEMIC ADVISORS ===
+
+Student Advisor:
+- Faculty member assigned 5-10 students
+- Guides students on academic and administrative issues
+
+Advisor Duties:
+- Help develop realistic educational/career plans
+- Create semester-by-semester schedule plans till graduation
+- Meet freshmen weekly in first semester for adjustment support
+- Meet continuing students fortnightly for semester planning
+- Assist in course selection based on abilities/interests
+- Monitor progress toward educational/career goals
+- Review grades and performance indicators each semester
+- Explain and interpret Academic Rules and Regulations
+- Track unsatisfactory work reports (attendance, failing grades, incompletes)
+- Pay special attention to warning/probation students
+- Approve educational transactions (registration, drops/adds, withdrawals)
+- Maintain Advising Portfolio with performance records
+- Refer students to institutional resources when needed
+- Consult with faculty colleagues regularly
+- Initiate I-grade cases when needed
+- Resolve administrative difficulties
+- Submit fortnightly signed reports to HoD/Chairman
+- Submit semester compiled reports to Dean
+
+=== SECTION 10: INTERNSHIP ===
+
+Total Requirement:
+- 18 weeks (500 hours) mandatory
+- 8 weeks summer semester (after 6th semester)
+- 10 weeks total summer breaks (5 weeks after 2nd semester + 5 weeks after 4th semester)
+
+Allowed Forms:
+
+1. Industrial Training:
+- Real-time work experience in industry/R&D organization
+- Hands-on observation and job execution
+- National or international/multinational companies
+
+2. Project-Based Internship:
+- Applying knowledge on specific issue/problem
+- Assessed by academic advisor and/or industry expert
+- Developing product parts, strategies, or analyses
+
+3. Project with Industry/Research Institute:
+- Application of knowledge and skills
+- Quantitative conclusions or qualitative understanding
+
+4. Virtual Internship:
+- ICT-supported environment
+- Computer-aided design and simulations
+- Specific project/task completion required
+
+Internship Outcomes:
+- Apply theories and skills to practical experience
+- Develop new knowledge and skills
+- Interact with professionals
+
+Eligibility:
+- All students (freshmen, sophomore, junior, senior)
+- May require specific coursework, skillset, CGPA
+
+Key Rules:
+- Industrial training and project-based preferred
+- Project/virtual internship only for one summer break
+- No remuneration, transportation, or living expenses from PAF-IAST
+- Individual or small team (≤4 members) preferred
+- Location: Home institute, national, or international company
+
+Student Responsibilities:
+- Submit placement pro forma in first week
+- Meet supervisor every two weeks
+- Submit mid-term progress report
+- Submit final report with detailed work and achievements
+
+Supervisor Responsibilities:
+- Provide prompt feedback
+- Conduct online meeting every two weeks
+- Visit company at least once during internship
+
+Company Responsibilities:
+- Provide expert supervision
+- Provide necessary resources and facilities
+- Ensure safety rules compliance
+- Contact academic advisor if problems arise
+- Send written evaluation at end
+
+Evaluation:
+- Submit internship report to employer and advisor
+- Deliver presentation to advisor
+- Submit evaluation form from employer
+- Unsatisfactory evaluation = repeat internship
+- Can request completion certificate from employer
+
+=== SECTION 11: CODE OF CONDUCT ===
+
+General Principles:
+- Equal opportunity workplace
+- No discrimination based on race, color, religion, national origin, gender
+- Opportunities based on qualifications and merit
+
+Prohibited Activities:
+- Political, anti-state, unlawful, sectarian activities
+- Cheating, plagiarism, harassment, cyber bullying
+- Drugs, lying, stealing
+- Conduct damaging Institute reputation
+- Disrupting academic programs/activities
+
+Expected Behavior:
+- Show tolerance, understanding, respect for others' rights
+- Resolve misunderstandings through decent discussion
+- No threatening attitude/behavior
+- Gender interaction within social/cultural norms
+- No undue intimacy or unacceptable proximity
+- Keep campus neat and tidy
+- Use designated waste bins
+- No damage to fixtures, furniture, equipment
+- No smoking on premises
+- Mobile phones off in classrooms, exam halls, labs, library
+- Adhere to code of conduct in sports and extracurricular activities
+- Dress decently and appropriately
+- Reflect high cultural and social values
+
+Security:
+- No firearms, fireworks, dangerous devices, chemicals, explosives
+- Zero-tolerance for weapons (knives, daggers)
+- Always carry National ID and PAF-IAST ID cards
+- No lending ID cards to others
+
+Ragging and Bullying:
+- Strictly prohibited
+- Report incidents to Chairman/HoD
+
+Media Policy:
+- No posting/debating on behalf of Institute without approval
+- Personal opinions must be clearly stated as such
+- Be respectable and courteous
+
+Discipline Committee:
+- Handles all indiscipline matters
+- Recommends appropriate corrective action
+- Authorized to deal with code of conduct breaches
